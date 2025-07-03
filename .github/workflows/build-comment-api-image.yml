@@ -3,9 +3,9 @@ name: Build Docker Comment Api Image
 on:
   push:
     branches: [ "master" ]
-    paths:
-      - "comment-api/**"
-      - "shared/**"
+    # paths:
+    #   - "comment-api/**"
+    #   - "shared/**"
 
 jobs:
 
