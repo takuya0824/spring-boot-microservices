@@ -1,4 +1,4 @@
-name: Build Docker Book Api Image
+name: Build Docker Book Api Image CI
 
 on:
   push:
