@@ -3,9 +3,9 @@ name: Build Docker Author Api Image CI
 on:
   push:
     branches: [ "master" ]
-    paths:
-      - "author-api/**"
-      - "shared/**"
+    # paths:
+    #   - "author-api/**"
+    #   - "shared/**"
 
 jobs:
 

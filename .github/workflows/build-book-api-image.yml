@@ -3,9 +3,9 @@ name: Build Docker Book Api Image CI
 on:
   push:
     branches: [ "master" ]
-    paths:
-      - "book-api/**"
-      - "shared/**"
+    # paths:
+    #   - "book-api/**"
+    #   - "shared/**"
 
 jobs:
 
