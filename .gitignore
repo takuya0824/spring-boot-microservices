@@ -1,0 +1,6 @@
+.env
+.vscode
+.docker
+.gradle
+build
+test.http
